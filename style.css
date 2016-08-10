@@ -1,0 +1,475 @@
+/*---------------Sydney---------------*/
+.divSy{
+    position: absolute;
+    left: 2010px;
+    top: 1120px;
+    height: 50px;
+    width: 50px;
+}
+
+.sy1{
+    position: absolute;
+    height: 56px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.sy2{
+    position: absolute;
+    height: 54px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.sy3{
+    position: absolute;
+    height: 54px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(10deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.sy4{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(20deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.sy5{
+    position: absolute;
+    height: 54px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(350deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.divSy:hover .sy1{
+    height: 214px;
+    width: 150px;
+    left: -150px;
+    top: -150px;
+    transform: rotate(360deg);
+}
+
+.divSy:hover .sy2{
+    height: 133px;
+    width: 100px;
+    left: 80px;
+    top: 80px;
+    transform: rotate(0deg);
+}
+
+.divSy:hover .sy3{
+    height: 160px;
+    width: 120px;
+    left: 150px;
+    top: -80px;
+    transform: rotate(0deg);
+}
+
+.divSy:hover .sy4{
+    height: 120px;
+    width: 120px;
+    left: 20px;
+    top: -40px;
+    transform: rotate(0deg);
+}
+
+.divSy:hover .sy5{
+    height: 160px;
+    width: 120px;
+    left: -80px;
+    top: 80px;
+    transform: rotate(360deg);
+}
+
+/*---------------Taiwan---------------*/
+.divTw{
+    position: absolute;
+    left: 1680px;
+    top: 430px;
+    height: 50px;
+    width: 50px;
+}
+
+.tw1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.tw2{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.tw3{
+    position: absolute;
+    height: 54px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(15deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.tw4{
+    position: absolute;
+    height: 54px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(345deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.divTw:hover .tw1{
+    height: 100px;
+    width: 100px;
+    left: -70px;
+    top: -70px;
+    transform: rotate(360deg);
+}
+
+.divTw:hover .tw2{
+    height: 120px;
+    width: 120px;
+    left: 30px;
+    top: 30px;
+    transform: rotate(0deg);
+}
+
+.divTw:hover .tw3{
+    height: 162px;
+    width: 120px;
+    left: 50px;
+    top: -150px;
+    transform: rotate(0deg);
+}
+
+.divTw:hover .tw4{
+    height: 162px;
+    width: 120px;
+    left: -60px;
+    top: 50px;
+    transform: rotate(360deg);
+}
+
+/*---------------QueenTown---------------*/
+.divQt{
+    position: absolute;
+    left: 2220px;
+    top: 1240px;
+    height: 50px;
+    width: 50px;
+}
+
+.qt1{
+    position: absolute;
+    height: 40px;
+    width: 56px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.qt2{
+    position: absolute;
+    height: 40px;
+    width: 39px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.qt3{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(10deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.qt4{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(20deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.qt5{
+    position: absolute;
+    height: 40px;
+    width: 54px;
+    left: 0;
+    top: 0;
+    transform: rotate(350deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.divQt:hover .qt1{
+    height: 120px;
+    width: 162px;
+    left: -150px;
+    top: -150px;
+    transform: rotate(360deg);
+}
+
+.divQt:hover .qt2{
+    height: 128px;
+    width: 120px;
+    left: 0;
+    top: -20px;
+    transform: rotate(0deg);
+}
+
+.divQt:hover .qt3{
+    height: 100px;
+    width: 100px;
+    left: -100px;
+    top: -10px;
+    transform: rotate(0deg);
+}
+
+.divQt:hover .qt4{
+    height: 110px;
+    width: 110px;
+    left: 120px;
+    top: -2px;
+    transform: rotate(0deg);
+}
+
+.divQt:hover .qt5{
+    height: 120px;
+    width: 162px;
+    left: 50px;
+    top: -120px;
+    transform: rotate(360deg);
+}
+
+/*---------------Osaka---------------*/
+.divOsk{
+    position: absolute;
+    left: 1820px;
+    top: 270px;
+    height: 50px;
+    width: 50px;
+}
+
+.osk1{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk2{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk3{
+    position: absolute;
+    height: 40px;
+    width: 71px;
+    left: 0;
+    top: 0;
+    transform: rotate(340deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk4{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(15deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk5{
+    position: absolute;
+    height: 40px;
+    width: 71px;
+    left: 0;
+    top: 0;
+    transform: rotate(350deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk6{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(20deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk7{
+    position: absolute;
+    height: 53px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(360deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.osk8{
+    position: absolute;
+    height: 53px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(10deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.divOsk:hover .osk1{
+    height: 178px;
+    width: 100px;
+    left: -100px;
+    top: -100px;
+    transform: rotate(360deg);
+}
+
+.divOsk:hover .osk2{
+    height: 178px;
+    width: 100px;
+    left: 110px;
+    top: 80px;
+    transform: rotate(0deg);
+}
+
+.divOsk:hover .osk3{
+    height: 100px;
+    width: 178px;
+    left: -10px;
+    top: -130px;
+    transform: rotate(360deg);
+}
+
+.divOsk:hover .osk4{
+    height: 178px;
+    width: 100px;
+    left: -80px;
+    top: 150px;
+    transform: rotate(0deg);
+}
+
+.divOsk:hover .osk5{
+    height: 100px;
+    width: 178px;
+    left: 100px;
+    top: -10px;
+    transform: rotate(360deg);
+}
+
+.divOsk:hover .osk6{
+    height: 178px;
+    width: 100px;
+    left: 0;
+    top: -20px;
+    transform: rotate(0deg);
+}
+
+.divOsk:hover .osk7{
+    height: 133px;
+    width: 100px;
+    left: 20px;
+    top: 130px;
+    transform: rotate(360deg);
+}
+
+.divOsk:hover .osk8{
+    height: 133px;
+    width: 100px;
+    left: -90px;
+    top: 40px;
+    transform: rotate(0deg);
+}
