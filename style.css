@@ -255,8 +255,8 @@
 
 .qt5{
     position: absolute;
-    height: 40px;
-    width: 54px;
+    height: 54px;
+    width: 40px;
     left: 0;
     top: 0;
     transform: rotate(350deg);
@@ -298,10 +298,10 @@
 }
 
 .divQt:hover .qt5{
-    height: 120px;
-    width: 162px;
+    height: 160px;
+    width: 120px;
     left: 50px;
-    top: -120px;
+    top: -160px;
     transform: rotate(360deg);
 }
 
