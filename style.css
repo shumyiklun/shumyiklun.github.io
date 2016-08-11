@@ -473,3 +473,132 @@
     top: 40px;
     transform: rotate(0deg);
 }
+
+/*---------------Hokkaido---------------*/
+.divHok{
+    position: absolute;
+    left: 1900px;
+    top: 150px;
+    height: 50px;
+    width: 50px;
+}
+
+.hok1{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.hok2{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.hok3{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(345deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.hok4{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(15deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.hok5{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(350deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.hok6{
+    position: absolute;
+    height: 71px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(10deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border-style: solid;
+    border-color: white;
+}
+
+.divHok:hover .hok1{
+    height: 178px;
+    width: 100px;
+    left: -120px;
+    top: -80px;
+    transform: rotate(360deg);
+}
+
+.divHok:hover .hok2{
+    height: 178px;
+    width: 100px;
+    left: 110px;
+    top: 80px;
+    transform: rotate(0deg);
+}
+
+.divHok:hover .hok3{
+    height: 133px;
+    width: 100px;
+    left: -10px;
+    top: -150px;
+    transform: rotate(360deg);
+}
+
+.divHok:hover .hok4{
+    height: 178px;
+    width: 100px;
+    left: -10px;
+    top: 160px;
+    transform: rotate(0deg);
+}
+
+.divHok:hover .hok5{
+    height: 178px;
+    width: 100px;
+    left: 120px;
+    top: -100px;
+    transform: rotate(360deg);
+}
+
+.divHok:hover .hok6{
+    height: 178px;
+    width: 100px;
+    left: 0;
+    top: -20px;
+    transform: rotate(0deg);
+}
