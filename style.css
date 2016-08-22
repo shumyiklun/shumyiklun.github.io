@@ -15,8 +15,7 @@
     top: 0;
     transform: rotate(330deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .sy2{
@@ -27,8 +26,7 @@
     top: 0;
     transform: rotate(30deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .sy3{
@@ -39,8 +37,7 @@
     top: 0;
     transform: rotate(10deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .sy4{
@@ -51,8 +48,7 @@
     top: 0;
     transform: rotate(20deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .sy5{
@@ -63,8 +59,7 @@
     top: 0;
     transform: rotate(350deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .divSy:hover .sy1{
@@ -124,8 +119,7 @@
     top: 0;
     transform: rotate(330deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .tw2{
@@ -136,8 +130,7 @@
     top: 0;
     transform: rotate(30deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .tw3{
@@ -148,8 +141,7 @@
     top: 0;
     transform: rotate(15deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .tw4{
@@ -160,8 +152,7 @@
     top: 0;
     transform: rotate(345deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .divTw:hover .tw1{
@@ -213,8 +204,7 @@
     top: 0;
     transform: rotate(330deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .qt2{
@@ -225,8 +215,7 @@
     top: 0;
     transform: rotate(30deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .qt3{
@@ -237,8 +226,7 @@
     top: 0;
     transform: rotate(10deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .qt4{
@@ -249,8 +237,7 @@
     top: 0;
     transform: rotate(20deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .qt5{
@@ -261,8 +248,7 @@
     top: 0;
     transform: rotate(350deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .divQt:hover .qt1{
@@ -322,8 +308,7 @@
     top: 0;
     transform: rotate(330deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk2{
@@ -334,8 +319,7 @@
     top: 0;
     transform: rotate(30deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk3{
@@ -346,8 +330,7 @@
     top: 0;
     transform: rotate(340deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk4{
@@ -358,8 +341,7 @@
     top: 0;
     transform: rotate(15deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk5{
@@ -370,8 +352,7 @@
     top: 0;
     transform: rotate(350deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk6{
@@ -382,8 +363,7 @@
     top: 0;
     transform: rotate(20deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk7{
@@ -394,8 +374,7 @@
     top: 0;
     transform: rotate(360deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .osk8{
@@ -406,8 +385,7 @@
     top: 0;
     transform: rotate(10deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .divOsk:hover .osk1{
@@ -491,8 +469,7 @@
     top: 0;
     transform: rotate(330deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .hok2{
@@ -503,8 +480,7 @@
     top: 0;
     transform: rotate(30deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .hok3{
@@ -515,8 +491,7 @@
     top: 0;
     transform: rotate(345deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .hok4{
@@ -527,8 +502,7 @@
     top: 0;
     transform: rotate(15deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .hok5{
@@ -539,8 +513,7 @@
     top: 0;
     transform: rotate(350deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .hok6{
@@ -551,8 +524,7 @@
     top: 0;
     transform: rotate(10deg);
     transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
-    border-style: solid;
-    border-color: white;
+    border: solid white;
 }
 
 .divHok:hover .hok1{
@@ -600,5 +572,232 @@
     width: 100px;
     left: 0;
     top: -20px;
+    transform: rotate(0deg);
+}
+
+/*---------------Europe---------------*/
+.divEu{
+    position: absolute;
+    left: 400px;
+    top: 150px;
+    height: 50px;
+    width: 50px;
+}
+
+.eu1{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.eu2{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.eu3{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(345deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.eu4{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(15deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.eu5{
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(350deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.divEu:hover .eu1{
+    height: 120px;
+    width: 120px;
+    left: -120px;
+    top: -80px;
+    transform: rotate(360deg);
+}
+
+.divEu:hover .eu2{
+    height: 120px;
+    width: 120px;
+    left: 20px;
+    top: 10px;
+    transform: rotate(0deg);
+}
+
+.divEu:hover .eu3{
+    height: 120px;
+    width: 180px;
+    left: -10px;
+    top: -130px;
+    transform: rotate(360deg);
+}
+
+.divEu:hover .eu4{
+    height: 120px;
+    width: 180px;
+    left: -10px;
+    top: 140px;
+    transform: rotate(0deg);
+}
+
+.divEu:hover .eu5{
+    height: 120px;
+    width: 180px;
+    left: 120px;
+    top: -100px;
+    transform: rotate(360deg);
+}
+
+/*---------------Beijing---------------*/
+.divBj{
+    position: absolute;
+    left: 1600px;
+    top: 230px;
+    height: 50px;
+    width: 50px;
+}
+
+.bj1{
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(330deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.bj2{
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(30deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.bj3{
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(345deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.bj4{
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(15deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.bj5{
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(350deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.bj6{
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    left: 0;
+    top: 0;
+    transform: rotate(10deg);
+    transition: height 1s,width 1s, left 1s, top 1s, transform 1s;
+    border: solid white;
+}
+
+.divBj:hover .bj1{
+    height: 135px;
+    width: 180px;
+    left: -180px;
+    top: -80px;
+    transform: rotate(360deg);
+}
+
+.divBj:hover .bj2{
+    height: 135px;
+    width: 180px;
+    left: -170px;
+    top: 80px;
+    transform: rotate(0deg);
+}
+
+.divBj:hover .bj3{
+    height: 135px;
+    width: 180px;
+    left: -30px;
+    top: -160px;
+    transform: rotate(360deg);
+}
+
+.divBj:hover .bj4{
+    height: 135px;
+    width: 180px;
+    left: -10px;
+    top: 140px;
+    transform: rotate(0deg);
+}
+
+.divBj:hover .bj5{
+    height: 135px;
+    width: 180px;
+    left: 120px;
+    top: -100px;
+    transform: rotate(360deg);
+}
+
+.divBj:hover .bj6{
+    height: 135px;
+    width: 180px;
+    left: -20px;
+    top: -40px;
     transform: rotate(0deg);
 }
